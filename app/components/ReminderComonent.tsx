@@ -7,17 +7,17 @@ import Reminder3 from "../svg/ReminderSvg3"
 const Reminders = [
     {
         svg: <Reminder1 />,
-        name: "Article 420 left",
+        name: "Science Ch:- 20 left",
         subText: "Due Today"
     },
     {
         svg: <Reminder2 />,
-        name: "Case Study 377",
+        name: "Moral Science:- Civic Sense",
         subText: "Due Next Week"
     },
     {
         svg: <Reminder3 />,
-        name: "Basic Articles",
+        name: "French Revolution",
         subText: "Due May 15th"
     }
 ]
